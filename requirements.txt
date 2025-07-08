@@ -6,3 +6,4 @@ nltk==3.8.1
 streamlit==1.27.2
 beautifulsoup4==4.12.2
 plotly==5.20.0
+joblib==1.2.0
