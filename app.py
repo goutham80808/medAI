@@ -38,7 +38,7 @@ lemmatizer = WordNetLemmatizer()
 # ⚙️ Streamlit Page Config
 # ==============================
 st.set_page_config(
-    page_title='DPDR',
+    page_title='Medic-AI',
     page_icon='👨‍⚕️',
     layout='wide'
 )
